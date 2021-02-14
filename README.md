@@ -1,7 +1,5 @@
 # Read Me Template
 
-![Project Image](project-image-url)
-
 > This is a ReadMe template to help save you time and effort "edit any field to your best fit".
 
 ---
