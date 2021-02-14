@@ -80,7 +80,7 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Linkedin - [Rotondwa Ramovha](https://www.linkedin.com/in/rotondwa-ramovha-ba7938141/)
+- Website - [VirtualCollab](https://virtualcollab.co.za/)
 
 [Back To The Top](#read-me-template)
